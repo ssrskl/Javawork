@@ -1,0 +1,15 @@
+create database android;
+
+use android;
+
+create table dictionary(
+   id int AUTO_INCREMENT,
+   receive varchar(100),
+   response varchar(100),
+   PRIMARY KEY (id)
+)  DEFAULT CHARSET=utf8;
+
+insert into dictionary values(null,'你好','好你妹！');
+insert into dictionary values(null,'你叫什么','你想泡我啊？');
+insert into dictionary values(null,'你叫什么','同志，不约');
+insert into dictionary values(null,'打你哦','来啊，来打我啊，不打有点挫');

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CountFilesTool">
+    <output-path>$PROJECT_DIR$/classes/artifacts/CountFilesTool</output-path>
+    <root id="archive" name="CountFilesTool.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>

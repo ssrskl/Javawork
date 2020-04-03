@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="D:/" />
+    <option name="OTHER_OPTIONS" value="-encoding GBK -charset UTF-8 -windowtitle &quot;接口wiki&quot; -link http://docs.Oracle.com/javase/7/docs/api" />
+    <option name="LOCALE" value="zh_CN" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
